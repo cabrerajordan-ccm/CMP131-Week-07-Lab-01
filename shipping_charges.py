@@ -2,14 +2,17 @@
 #Course number:cmp 131
 #Week number:7
 #Lab number:1
-#Assignment title:
+#Assignment title:shipping_charge
 #Date:10/28/26
 weight=float(input("What is the weight in kilograms?"))
-while weight<=0 or weight>=20:
+while (weight<=0 or weight>=20):
     print("INVALID, please input a value bettween 0 and 20")
+    weight=float(input("What is the weight in kilograms?"))
+
 distance=int(input("What is the shipping distance in miles?"))  
 while distance<10 or distance>3000:
     print("INVALID, please input a value bettween 10 and 300")
+    distance=int(input("What is the shipping distance in miles?")) 
 if weight<=2:
     rate=1.10
 elif weight>2 and weight<=6:

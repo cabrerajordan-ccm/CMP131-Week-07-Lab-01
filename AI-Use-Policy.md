@@ -4,7 +4,7 @@ AI tools, including GitHub Copilot and ChatGPT, may be used as learning assistan
 
 ## Permitted Uses
 
-You may use an AI tool to:
+You may use an AI tool to: 
 
 - Explain a Java concept in simpler language.
 - Explain compiler errors and error messages.
@@ -41,7 +41,7 @@ The instructor may ask you to explain or modify your code. If you cannot explain
 
 If you use GitHub Copilot, ChatGPT, or another AI tool, complete the `AI-Use-Report.md` file.
 
-Record:
+Record: GiHub Copilot was very helpful throughout this lab, helping explain and pointing out errors.
 
 - The AI tool used.
 - What assistance you requested.
